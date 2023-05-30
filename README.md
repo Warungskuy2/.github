@@ -1,2 +1,2 @@
 # .github
-project masa depan dari para MD ganteng
+ini merupakan repo untuk edit profile
